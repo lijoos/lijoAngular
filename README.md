@@ -1,0 +1,2 @@
+# lijoAngular
+angularPoject
